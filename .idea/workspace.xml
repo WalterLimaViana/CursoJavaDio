@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c62246-78c9-4b5b-8c59-2bdbaabfb8ee" name="Changes" comment="Criado o método Calculadora">
-      <change afterPath="$PROJECT_DIR$/src/Mensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f0c62246-78c9-4b5b-8c59-2bdbaabfb8ee" name="Changes" comment="Criado o método Mensagem">
+      <change afterPath="$PROJECT_DIR$/src/Emprestimo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663721824864</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criado o método Mensagem">
+      <created>1663722692820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663722692820</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inserindo o readme.md" />
     <MESSAGE value="Criado o método Calculadora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado o método Calculadora" />
+    <MESSAGE value="Criado o método Mensagem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado o método Mensagem" />
   </component>
 </project>
