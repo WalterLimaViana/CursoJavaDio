@@ -6,5 +6,11 @@ public class Main {
         Calculadora.subtracao(7,9);
         Calculadora.divisao(92,8);
         Calculadora.multiplicacao(7,5);
+
+        //Mensagem
+        System.out.println("Exercicio Mensagem");
+        Mensagem.obterMensagem(9);
+        Mensagem.obterMensagem(14);
+        Mensagem.obterMensagem(21);
     }
 }
