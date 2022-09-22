@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c62246-78c9-4b5b-8c59-2bdbaabfb8ee" name="Changes" comment="Criado o método Empréstimo">
-      <change afterPath="$PROJECT_DIR$/src/Quadrilatero.java" afterDir="false" />
+    <list default="true" id="f0c62246-78c9-4b5b-8c59-2bdbaabfb8ee" name="Changes" comment="Criado o método Quadrilatero">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quadrilatero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663723295153</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criado o método Quadrilatero">
+      <created>1663809632033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663809632033</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +116,7 @@
     <MESSAGE value="Criado o método Calculadora" />
     <MESSAGE value="Criado o método Mensagem" />
     <MESSAGE value="Criado o método Empréstimo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado o método Empréstimo" />
+    <MESSAGE value="Criado o método Quadrilatero" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado o método Quadrilatero" />
   </component>
 </project>
